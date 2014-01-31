@@ -6,7 +6,7 @@ It is a repository with parts of source code of a trainning in Web Development, 
 Topics:
 * PHP Object Orientation
 * MVC (Model-View-Controller)
-* ORM (Object-relation Mapping)
+* ORM (Object-relational Mapping)
 * RESTful webservices
 * HTML5/CSS3 with Bootstrap
 * AJAX requests
