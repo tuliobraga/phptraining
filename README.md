@@ -8,5 +8,5 @@ Topics:
 * MVC (Model-View-Controller)
 * ORM (Object-relational Mapping)
 * RESTful webservices
-* HTML5/CSS3 with Bootstrap
+* Bootstrap (responsive, mobile first)
 * AJAX requests
